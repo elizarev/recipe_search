@@ -1,0 +1,9 @@
+__pycache__/functions_recipe_search.cpython-39.pyc
+__pycache__/functions.cpython-39.pyc
+__pycache__/recipe_search.cpython-39.pyc
+__pycache__/test_functions_recipe_search.cpython-39-pytest-6.1.2.pyc
+__pycache__/test_functions.cpython-39-pytest-6.1.2.pyc
+__pycache__/test_recipe_search.cpython-39-pytest-6.1.2.pyc
+.DS_Store
+__pycache__
+.pytest_cache
